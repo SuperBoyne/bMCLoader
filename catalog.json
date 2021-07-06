@@ -1,0 +1,9 @@
+{
+"apps": {
+  "test": {
+    "link": "https://opensource.org/files/twitterlogo.png",
+    "description": "A test app. Don't install it.",
+    "version": "None"
+  }
+}
+}
